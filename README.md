@@ -3,8 +3,9 @@
 ```
 # PART ONE AND TWO: DIMENSIONALITY REDUCTION AND FEATURE SCALING.
 
-DIMENSIONALITY REDUCTION :This section of the project entails reducing your dataset to a low dimensional dataset using the t-SNE algorithm or PCA. You will be required to perform your analysis and provide insights gained from your analysis.
-FEATURE SCALING          : This section requires you to perform feature selection through the use of the unsupervised learning methods learned earlier this week. You will be required to perform your analysis and provide insights on the features that contribute the most information to the dataset.
+**DIMENSIONALITY REDUCTION** : This section of the project entails reducing your dataset to a low dimensional dataset using the t-SNE algorithm or PCA. You will be required to perform your analysis and provide insights gained from your analysis.
+
+**FEATURE SCALING** : This section requires you to perform feature selection through the use of the unsupervised learning methods learned earlier this week. You will be required to perform your analysis and provide insights on the features that contribute the most information to the dataset.
 
 The link can be found here [DIMENSIONALITY REDUCTION AND FEATURE SCALING](http://rpubs.com/Maureenbett/885317)
 
